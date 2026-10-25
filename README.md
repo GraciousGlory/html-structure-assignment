@@ -13,4 +13,4 @@ By Aroninuola Foluke
 ## Week 2: Content Page of an article on ESPN
 - Site: ESPN, a Liverpool vs. Brighton live article
 - File: week2/ESPN.html
-- Screenshot: week2/ESPN_picture.png
+- Screenshot: week2/ESPN_picture_1.png and ESPN_picture_2.png
